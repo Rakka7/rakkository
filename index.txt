@@ -1,2 +1,7 @@
 new index to reset in staging
+
+
 insert guac.txt
+
+
+gotta update this
