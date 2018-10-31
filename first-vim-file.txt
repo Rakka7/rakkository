@@ -1,0 +1,10 @@
+i is for insert mode
+esc is to get back to command mode
+b - beginning of word
+e - end of word
+w - start of next word
+r - replace letter
+/ - search
+d - delete
+:q! - quit without save
+:wq - quit with save
