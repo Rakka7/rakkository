@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rakka7/rakkository/issues"
   },
-  "homepage": "https://github.com/Rakka7/rakkository#readme"
+  "homepage": "https://github.com/Rakka7/rakkository#readme",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
 }
